@@ -20,7 +20,11 @@ android {
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
-
+    kotlin {
+        sourceSets.all {
+            languageSettings.optIn("androidx.compose.material3.ExperimentalMaterial3Api")
+        }
+    }
     buildTypes {
         release {
             isMinifyEnabled = false
