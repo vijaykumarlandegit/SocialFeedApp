@@ -1,4 +1,4 @@
-package com.practice.socialfeed.data
+package com.practice.socialfeed.data.model
 
 data class CreatePostRequest(
     val content: String
