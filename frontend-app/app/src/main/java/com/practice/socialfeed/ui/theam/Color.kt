@@ -1,4 +1,4 @@
-package com.practice.socialfeed.ui.theme
+package com.practice.socialfeed.ui.theam
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.practice.socialfeed.ui.theme
+package com.practice.socialfeed.ui.theam
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
