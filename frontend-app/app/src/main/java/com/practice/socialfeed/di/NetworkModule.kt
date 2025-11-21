@@ -20,6 +20,7 @@ import dagger.Provides
 @InstallIn(SingletonComponent::class)
 object NetworkModule {
 
+
     private const val BASE_URL = "apiUrl"
 
     @Provides
