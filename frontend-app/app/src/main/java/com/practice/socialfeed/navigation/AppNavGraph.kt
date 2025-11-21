@@ -12,6 +12,7 @@ import com.practice.socialfeed.presentation.feed.FeedViewModel
 import com.practice.socialfeed.presentation.login.LoginScreen
 import com.practice.socialfeed.presentation.login.LoginViewModel
 import com.practice.socialfeed.ui.auth.LoginScreen
+import com.practice.socialfeed.ui.feed.FeedScreen
 import com.practice.socialfeed.ui.viewmodel.AddPostViewModel
 import com.practice.socialfeed.ui.viewmodel.FeedViewModel
 import com.practice.socialfeed.ui.viewmodel.LoginViewModel
