@@ -5,12 +5,7 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.practice.socialfeed.presentation.add.AddPostScreen
-import com.practice.socialfeed.presentation.add.AddPostViewModel
-import com.practice.socialfeed.presentation.feed.FeedScreen
-import com.practice.socialfeed.presentation.feed.FeedViewModel
-import com.practice.socialfeed.presentation.login.LoginScreen
-import com.practice.socialfeed.presentation.login.LoginViewModel
+import com.practice.socialfeed.ui.addpost.AddPostScreen
 import com.practice.socialfeed.ui.auth.LoginScreen
 import com.practice.socialfeed.ui.feed.FeedScreen
 import com.practice.socialfeed.ui.viewmodel.AddPostViewModel
@@ -24,7 +19,7 @@ fun AppNavGraph(navController: NavHostController) {
         startDestination = AppScreen.Login.route
     ) {
         composable(AppScreen.Login.route) {
-            val viewModel = LoginViewModel()
+            val viewModel :LoginViewModel= hiltViewModel()
             LoginScreen(
                 viewModel = viewModel,
                 onLoginSuccess = {

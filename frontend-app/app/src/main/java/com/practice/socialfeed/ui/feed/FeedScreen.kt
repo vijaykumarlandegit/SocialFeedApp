@@ -96,6 +96,16 @@ private fun PostsList(
     posts: List<Post>,
     modifier: Modifier = Modifier
 ) {
+    if (posts.isEmpty()) {
+        // Empty state
+        Text(
+            text = "No posts available",
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(16.dp)
+        )
+        return
+    }
     LazyColumn(
         modifier = modifier.padding(16.dp)
     ) {

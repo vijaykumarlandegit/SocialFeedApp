@@ -21,7 +21,10 @@ import dagger.Provides
 object NetworkModule {
 
 
-    private const val BASE_URL = "apiUrl"
+//    private const val BASE_URL = "http://10.0.2.2:8080/"
+    private const val BASE_URL = "http://192.168.117.219:8080/"
+
+
 
     @Provides
     @Singleton
