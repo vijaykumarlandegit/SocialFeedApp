@@ -21,7 +21,7 @@ Endpoint	           Method	              Function
 /posts                POST             Creates and saves a new post.
 
 # Application Screenshots
-![Alt Text]([PASTE_THE_COPIED_ADDRESS_HERE](https://private-user-images.githubusercontent.com/119649718/517742397-66915bc3-e24a-48f7-a3b7-21682e425bb2.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM4MzUxMjMsIm5iZiI6MTc2MzgzNDgyMywicGF0aCI6Ii8xMTk2NDk3MTgvNTE3NzQyMzk3LTY2OTE1YmMzLWUyNGEtNDhmNy1hM2I3LTIxNjgyZTQyNWJiMi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTIyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyMlQxODA3MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZjJkNDg1YTExNDdmNjY4YTIxOTc4NjM2Zjk2ZDVlNzE0ZjE2NGY4M2U2MWM0YjZkNGQ4YjVlOTNmNjA3MWQzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ds1pHD4srbeby5KrsvuVOcBptMqPGfQx-OLgDgFrUr0))
+![Alt Text](https://private-user-images.githubusercontent.com/119649718/517742397-66915bc3-e24a-48f7-a3b7-21682e425bb2.jpg?)
  
 
 # Architecture Diagram
