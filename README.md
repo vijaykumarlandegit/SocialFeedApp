@@ -21,7 +21,7 @@ Endpoint	           Method	              Function
 /posts                POST             Creates and saves a new post.
 
 # Application Screenshots
-![Alt Text](https://private-user-images.githubusercontent.com/119649718/517742397-66915bc3-e24a-48f7-a3b7-21682e425bb2.jpg?)
+![Login Screenshot](https://private-user-images.githubusercontent.com/119649718/517742397-66915bc3-e24a-48f7-a3b7-21682e425bb2.jpg)
  
 
 # Architecture Diagram
